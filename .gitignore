@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+uploads/
+*.swp
+*.swo
